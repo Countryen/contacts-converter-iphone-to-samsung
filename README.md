@@ -26,4 +26,4 @@ Basically it's 2 tables, one containing the Persons and the other containing eve
 - See: https://social.technet.microsoft.com/wiki/contents/articles/30562.powershell-accessing-sqlite-databases.aspx
 
 # Notes
-Programmed in English but comments are in German (native language).
+Comments are in German (my native language).
